@@ -136,8 +136,8 @@ ref: 'Category'
 
 Clonar el Repositorio:
 
-git clone [URL_DE_TU_REPOSITORIO]
-cd proyecto-crud-mongodb
+git clone https://github.com/ABJR2000/tp-utn-jonathan-ruiz.git
+cd backend
 
 
 Instalar Dependencias:
